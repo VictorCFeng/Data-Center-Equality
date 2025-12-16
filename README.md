@@ -27,19 +27,19 @@ This repository contains the data, code, and derived results used to quantify ho
 
 <p align="center">
   <a href="https://VictorCFeng.github.io/Data-Center-Equality/figures/PJM.html">
-    <img src="figures/PJM_2025.svg" alt="PJM 2025 (click for interactive)" width="100%">
+    <img src="figures/PJM_2025.svg" alt="PJM 2025 (click for interactive)" width="49%">
   </a>
   <a href="https://VictorCFeng.github.io/Data-Center-Equality/figures/MISO.html">
-    <img src="figures/MISO_2025.svg" alt="MISO 2025 (click for interactive)" width="100%">
+    <img src="figures/MISO_2025.svg" alt="MISO 2025 (click for interactive)" width="49%">
   </a>
 </p>
 
 <p align="center">
   <a href="https://VictorCFeng.github.io/Data-Center-Equality/figures/ERCOT.html">
-    <img src="figures/ERCOT_2025.svg" alt="ERCOT 2025 (click for interactive)" width="100%">
+    <img src="figures/ERCOT_2025.svg" alt="ERCOT 2025 (click for interactive)" width="49%">
   </a>
   <a href="https://VictorCFeng.github.io/Data-Center-Equality/figures/CAISO.html">
-    <img src="figures/CAISO_2025.svg" alt="CAISO 2025 (click for interactive)" width="100%">
+    <img src="figures/CAISO_2025.svg" alt="CAISO 2025 (click for interactive)" width="49%">
   </a>
 </p>
 
