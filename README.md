@@ -1,7 +1,7 @@
 # Data Center–Driven Inequality and Energy Burden
 
 <p align="center">
-  <img src="figures/icon.png" width="700">
+  <img src="figures/icon.png" width="400">
 </p>
 
 This repository contains the data, code, and derived results used to quantify how data-center load growth affects **wholesale electricity prices**, **transmission cost allocation**, and downstream **burden and distributional outcomes** across the United States.
