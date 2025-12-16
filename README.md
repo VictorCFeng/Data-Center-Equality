@@ -1,6 +1,6 @@
-# Data Center–Driven Grid Costs & Price Impacts
+# Data Center–Driven Inequality and Energy Burden
 
-This repository contains the data, code, and derived results used to quantify how data-center load growth affects **wholesale electricity prices**, **transmission cost allocation**, and downstream **burden and distributional outcomes** across major U.S. power markets.
+This repository contains the data, code, and derived results used to quantify how data-center load growth affects **wholesale electricity prices**, **transmission cost allocation**, and downstream **burden and distributional outcomes** across the United States.
 
 ---
 
@@ -10,7 +10,7 @@ This repository contains the data, code, and derived results used to quantify ho
 - **01_tables/** — Panel dataset for estimating the impact of **ISO-level** data center capacity on wholesale prices.
 - **01_tables_city/** — Panel dataset for estimating the impact of **non-ISO cities’** data center capacity on wholesale prices.
 - **02_fuel_mix/** — Raw generation mix (fuel mix) data for each ISO.
-- **03_regressive_path/** — Inputs used to construct the **regressive scenario** for data-center capacity trajectories.
+- **03_aggressive_path/** — Inputs used to construct the **aggressive scenario** for data-center capacity trajectories.
 - **04_load_and_costs/** — Source files for **transmission charges** and **long-term load forecasts**, plus extracted/cleaned tables.
 - **04_rider/** — PUC docket documents and extracted tables used to compute **data-center transmission cost responsibility** (“rider” allocation).
 - **05_burden/** — Price decomposition, projections, and fuel-price forecast files used in burden calculations.
