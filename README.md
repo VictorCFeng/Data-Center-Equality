@@ -28,19 +28,19 @@ The repo is intentionally **data-centric**: besides the core code and figure gal
 ## Figures (2025 static previews → click for interactive HTML)
 
 <p align="center">
-  <a href="https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/figures/PJM.html">
+  <a href="https://VictorCFeng.github.io/Data-Center-Equality/figures/PJM.html">
     <img src="figures/PJM_2025.svg" alt="PJM 2025 (click for interactive)" width="49%">
   </a>
-  <a href="https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/figures/MISO.html">
+  <a href="https://VictorCFeng.github.io/Data-Center-Equality/figures/MISO.html">
     <img src="figures/MISO_2025.svg" alt="MISO 2025 (click for interactive)" width="49%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/figures/ERCOT.html">
+  <a href="https://VictorCFeng.github.io/Data-Center-Equality/figures/ERCOT.html">
     <img src="figures/ERCOT_2025.svg" alt="ERCOT 2025 (click for interactive)" width="49%">
   </a>
-  <a href="https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/figures/CAISO.html">
+  <a href="https://VictorCFeng.github.io/Data-Center-Equality/figures/CAISO.html">
     <img src="figures/CAISO_2025.svg" alt="CAISO 2025 (click for interactive)" width="49%">
   </a>
 </p>
