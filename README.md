@@ -26,6 +26,16 @@ This repository contains the data, code, and derived results used to quantify ho
 
 ---
 
+## Large datasets (hosted on Google Drive)
+
+Due to size constraints, the two panel datasets used for the price-impact regressions are **not stored directly in this GitHub repository**:
+
+They are hosted on Google Drive here:
+
+- **Google Drive folder**: https://drive.google.com/drive/folders/1YjEEAJrFbZg64ZUPRTsWpSEI4e6IMdKe?usp=sharing
+
+---
+
 
 ## Figures (2025 static previews → click for interactive HTML)
 
