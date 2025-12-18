@@ -6,6 +6,7 @@
 
 This repository contains the data, code, and derived results used to quantify how data-center load growth affects **wholesale electricity prices**, **transmission cost allocation**, and downstream **burden and distributional outcomes** across the United States.
 
+* Before publications, please reach admins for reusage data in this repo.
 ---
 
 ## Repository structure
