@@ -40,6 +40,12 @@ They are hosted on Google Drive here:
 
 ## Figures (2025 static previews → click for interactive HTML)
 
+Zones:
+<p align="center">
+  <img src="figures/zones.png" width="600">
+</p>
+
+Grid Cost Allocations:
 <p align="center">
   <a href="https://VictorCFeng.github.io/Data-Center-Equality/figures/PJM.html">
     <img src="figures/PJM_2025.svg" alt="PJM 2025 (click for interactive)" width="49%">
